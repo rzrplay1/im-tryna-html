@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad:wght@500&display=swap');
+@font-face {
+    font-family: supermario;
+    src: url("Newfolder/supermario286rusbylyajka.otf");
+}
+body{
+    font-family:'Afacad';
+    margin:0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    margin: 0px;
+    height: 50px;
+    padding: 5px;
+    padding-left: 15px;
+    background-color: #ff3636;
+    color: white;
+    position: sticky;
+    top: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.con1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    margin-top: 120px;
+    margin-bottom:120px;
+    height: 600px;
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.marioelepant{
+    width: 500px;
+}
+.text{
+    margin-right:45px;
+    width: 360px;
+}
+.p{
+    word-wrap: wrap;
+}
+a{
+    text-decoration: none;
+    margin: 5px;
+    color: white;
+    font-size: 25px;
+}
+.beeg{
+    font-size: 25px;
+}
+.midt{
+    margin: 10px;
+    color: white;
+    background-color: #ff3636;
+    margin: 0px;
+    padding: 5px;
+}
+.red{
+    background-color: #ff3636;
+}
+.con2{
+    width: auto;
+    display: flex;
+    justify-content: flex-start;
+    margin: 0px;
+    height: 520px;
+    overflow-x: scroll;
+}
+.i{
+    height: 360px;
+    margin: 5px;
+}
+.w{
+    color: white;
+}
+span{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.bott{
+    margin: 10px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
+.con3{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height:auto;
+}
+.pics{
+    height: 280px;
+}
+.back{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    margin-bottom: 20px;
+}
+footer{
+    background-color: #ff3636;
+    color: #5d1616;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}
+.a{
+    font-size:medium;
+    color: #5d1616;
+    text-decoration: underline;
+}
+h2{
+    font-family: "supermario";
+    font-weight: 100;
+}
+.he{
+    font-size: 30px;
+}
+.chonker{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.smol{
+    height: 220px;
+}
