@@ -8,6 +8,7 @@ body{
     margin:0px;
     margin-left: auto;
     margin-right: auto;
+    scroll-behavior:smooth;
 }
 header{
     margin: 0px;
@@ -50,7 +51,6 @@ a{
     margin: 5px;
     color: white;
     font-size: 25px;
-    scroll-behavior: smooth;
 }
 .beeg{
     font-size: 30px;
@@ -142,5 +142,5 @@ h2{
     color: #000000;
 }
 .border{
-        border: 1px solid #000000;
+    border: 1px solid #000000;
 }
