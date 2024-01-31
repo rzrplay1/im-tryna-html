@@ -50,9 +50,10 @@ a{
     margin: 5px;
     color: white;
     font-size: 25px;
+    scroll-behavior: smooth;
 }
 .beeg{
-    font-size: 25px;
+    font-size: 30px;
 }
 .midt{
     margin: 10px;
@@ -99,7 +100,9 @@ span{
     height:auto;
 }
 .pics{
-    height: 280px;
+    height: 290px;
+    border-radius: 5px;
+    border: 1px solid #000000;
 }
 .back{
     display: flex;
@@ -134,5 +137,8 @@ h2{
     align-items: center;
 }
 .smol{
-    height: 220px;
+    height: 240px;
+}
+.bl{
+    color: #000000;
 }
